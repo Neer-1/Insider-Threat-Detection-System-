@@ -1,4 +1,4 @@
-cd"c:\Users\Neer\Desktop\litds"
+cd "c:\Users\Neer\Desktop\litds"
 
 # Check for changes
 $status = git status --porcelain
