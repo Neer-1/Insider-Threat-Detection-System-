@@ -1,4 +1,4 @@
-cd"C:\Users\YourName\Desktop\insider-threat-system"
+cd"c:\Users\Neer\Desktop\litds"
 
 # Check for changes
 $status = git status --porcelain
